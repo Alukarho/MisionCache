@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: MisionCache
+## Notes: Captura y almacena información de misiones en TurtleWoW
+## Author: TurtleLatam
+## Version: 1.1
+## SavedVariables: MisionCacheDB, MisionCacheConfig
+
+MisionCache.lua 
