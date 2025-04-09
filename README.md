@@ -2,7 +2,7 @@
 
 Addon para TurtleWoW que captura misiones, diálogos, bocadillos y gritos de NPCs.
 
-![image](https://github.com/user-attachments/assets/7af8d8e7-ad72-4f28-8d65-5b85b8d8347b)
+<img src="https://github.com/user-attachments/assets/7af8d8e7-ad72-4f28-8d65-5b85b8d8347b" width="400"/>
 
 
 ## Descripción
