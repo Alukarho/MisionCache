@@ -13,7 +13,7 @@ MisionCache es un addon diseñado específicamente para TurtleWoW que captura au
 - Bocadillos (mensajes que dicen los NPCs)
 - Gritos de NPCs
 
-El objetivo principal es recopilar estos datos para mejorar el proyecto de voiceover para TurtleWoW.
+El objetivo principal es recopilar estos datos para mejorar el proyecto de VoiceOver para TurtleWoW.
 
 ## Características
 
